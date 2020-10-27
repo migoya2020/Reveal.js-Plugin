@@ -1,2 +1,2 @@
-# Reveal.js-Plugin
+# Reveal.js-Plugin for continousHorizontal slides looping
 This Plugin makes the direction of horizontal  loops to be continous
