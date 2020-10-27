@@ -12,8 +12,8 @@ Reveal.on('slidechanged', event =>
 		}
 		else if (event.indexh == 0)
 		{  	
-            console.log("This is 1st slide");
-            //change  last slide class
+            console.log("This is the First slide");
+            //change last slide class
 			horizonSlides[lastSlide].className = "stack past";
 			
 		}
